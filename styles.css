@@ -1,0 +1,56 @@
+    /* font-family: 'Cinzel', serif; for Brand Name
+
+    font-family: 'Crimson Text', serif; for h1
+
+    font-family: 'Rokkitt', serif; for h2
+
+    font-family: 'Cormorant Garamond', serif; for Opening Sentence
+
+    font-family: 'Caveat', cursive; for Reviews h2 */
+    h2 {
+        text-align: center;
+        font-family: 'Caveat', cursive;
+        color:white;
+    }
+    span {
+        color:white;
+    }
+    #header {
+        font-family: 'Cinzel', serif;
+        text-align: center;
+        border-top: 10px solid black;
+        padding: 5px;
+        margin: 0 auto -8px auto;
+    }
+    #logoname {
+        font-family: 'Cinzel', serif;
+    }
+    #navbarcontainer {
+        padding: 0;
+    }
+    #testimonial-carousel {
+        
+        text-align: center;
+        padding: 5% 25%;
+        font-size: 1.5em;
+        background-color: black;
+       
+    }
+    .navbar-text {
+        margin: auto;
+    }
+    .nav-item  {
+        padding: 0 10px;
+    }
+    .carouselImage  {
+        display: block;
+        margin: 0px auto;
+        max-width: 100%;
+    }   
+    .testimonial-image {
+        border-radius: 50px 50px 50px 50px;
+        width: 60px;
+        margin: 50px auto;
+        display: block;
+    }
+
