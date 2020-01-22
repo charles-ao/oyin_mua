@@ -1,0 +1,118 @@
+    /* font-family: 'Cinzel', serif; for Brand Name
+
+    font-family: 'Crimson Text', serif; for h1
+
+    font-family: 'Rokkitt', serif; for h2
+
+    font-family: 'Cormorant Garamond', serif; for Opening Sentence
+
+    font-family: 'Caveat', cursive; for Reviews h2 */
+    
+    h2 {
+        text-align: center;
+        font-family: 'Caveat', cursive;
+        color: white;
+    }
+    
+    a,
+    span,
+    address,
+    h4 {
+        color: white;
+    }
+    
+    h4 {
+        font-family: 'Cormorant Garamond', serif;
+    }
+    
+    #img01 {
+        width: 150px;
+        float: left;
+        border-radius: 100px 100px;
+        margin-right: 5px;
+    }
+    
+    #profile {
+        text-align: center;
+        padding: 2% 20% 5% 20%;
+        font-family: 'Cormorant Garamond', serif;
+        line-height: 25px;
+        color: black;
+        font-size: 20px;
+    }
+    
+    #cta {
+        background-color: black;
+        padding: 5% 5% 0.1% 5%;
+        text-align: center;
+    }
+    
+    #credit {
+        color: gray;
+        text-align: center;
+        background-color: black;
+        padding: 2%;
+    }
+    
+    #proIcon {
+        display: block;
+        margin: 5px auto;
+    }
+    
+    #downloadMsg {
+        color: black;
+        margin: 10px 30px;
+    }
+    
+    #services {
+        font-family: 'Cormorant Garamond' serif;
+        margin: 10px 5px;
+    }
+    
+    #header {
+        font-family: 'Cinzel', serif;
+        text-align: center;
+        border-top: 10px solid black;
+        padding: 5px;
+        margin: 0 auto -8px auto;
+    }
+    
+    #logoname {
+        font-family: 'Cinzel', serif;
+    }
+    
+    #navbarcontainer {
+        padding: 0;
+    }
+    
+    #testimonial-carousel {
+        text-align: center;
+        padding: 5% 25%;
+        font-size: 1.5em;
+        background-color: black;
+    }
+    
+    .navbar-text {
+        margin: auto;
+    }
+    
+    .nav-item {
+        padding: 0 10px;
+    }
+    
+    .carouselImage {
+        display: block;
+        margin: 0px auto;
+        max-width: 100%;
+    }
+    
+    .testimonial-image {
+        border-radius: 50px 50px 50px 50px;
+        width: 60px;
+        margin: 50px auto;
+        display: block;
+    }
+    
+    .cntbtn {
+        margin: 0px 10px 20px 10px;
+    }
