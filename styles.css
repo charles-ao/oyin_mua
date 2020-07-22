@@ -23,6 +23,7 @@
     
     h4 {
         font-family: 'Cormorant Garamond', serif;
+            
     }
     
     #img01 {
@@ -40,7 +41,29 @@
         color: black;
         font-size: 20px;
     }
+
+    #Blink {
+        color: black;
+         animation: blinker 4.7s linear infinite;
+         text-align: center;
+          font-weight: bold;
+          font-style: italic;
+                      
+    }
+     @keyframes blinker {
+        100% {
+          opacity: 0;
+           background-color: grey;
+           
+           
+        }
+    }
+
+  #Download {
+    text-align: center;
     
+
+  }  
     #cta {
         background-color: black;
         padding: 5% 5% 0.1% 5%;
